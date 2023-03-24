@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.35,
-          "width": 2.0
+          "drill": 0.6,
+          "height": 0.8,
+          "width": 0.8
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.0
+          "min_clearance": 0.25
         }
       },
       "diff_pair_dimensions": [
@@ -133,6 +133,10 @@
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 0.6,
+          "drill": 0.35
         }
       ],
       "zones_allow_external_fillets": false,
@@ -453,6 +457,54 @@
     [
       "852dabbf-de45-4470-8176-59d37a754407",
       ""
+    ],
+    [
+      "e9e51bce-a1a3-4aa4-81bc-9221a5d5c31c",
+      "Microcontroller"
+    ],
+    [
+      "0ad5ec78-8724-46ce-9934-1a03521be891",
+      "Buttons"
+    ],
+    [
+      "6a71d38d-d269-4661-bbb9-0dc4d8a1b2ec",
+      "Rumble"
+    ],
+    [
+      "fffb6dce-fa8e-4e88-83a8-ba84c4567994",
+      "Miscellaneous"
+    ],
+    [
+      "487dd24e-1845-4316-b95e-b75734db4272",
+      "Flash"
+    ],
+    [
+      "3b643501-4738-4598-a15e-0b4cfb5271e3",
+      "PowerSupply"
+    ],
+    [
+      "9460d0b0-2c02-4e2e-b032-23450ba98ef9",
+      "PhobVision"
+    ],
+    [
+      "ea94fce2-ce9d-4bd9-bbaf-cdc5a7116b13",
+      "Stickbox_GrayStick"
+    ],
+    [
+      "71277f99-3420-435d-8875-8c57d77c4785",
+      "Stickbox_CStick"
+    ],
+    [
+      "a6a2397b-8fae-429c-98fb-41a2dcd29aaf",
+      "Communications"
+    ],
+    [
+      "428f3ea3-9295-467c-bf43-d1fb91e6de57",
+      "TriggerSliders"
+    ],
+    [
+      "bee10516-9714-48fb-8bca-95f2e80a944b",
+      "TriggerPaddles"
     ]
   ],
   "text_variables": {}

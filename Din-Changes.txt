@@ -1,0 +1,20 @@
+PHOB V2 CHANGES - DIN
+
+Cleaned up schematic to be more legible
+Made traces perpendicular at all crossings where possible
+Moved rumble components
+Added ferrite bead inputs on  
+Isolated rumble ground similar to OEM
+Added auxiliary protocol circuit mimicking OEM
+Moved power supply caps closer to regulator
+Removed 2-pin USB connector
+Removed GCC_DATA zener diode
+Added capacitors to hall sensors
+Moved R16
+Added input bulk capacitance
+Put c-stick bulk capacitance on c-stick
+Stitching vias
+Changed thermal relief gap of TH pads to 0.2mm
+Changed main board to have top and bottom ground planes
+Changed all designators to 0.7, 0.7, 0.15
+Added graphics
