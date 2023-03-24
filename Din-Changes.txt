@@ -3,7 +3,7 @@ PHOB V2 CHANGES - DIN
 Cleaned up schematic to be more legible
 Made traces perpendicular at all crossings where possible
 Moved rumble components
-Added ferrite bead inputs on  
+Added ferrite bead inputs on all input cable signals
 Isolated rumble ground similar to OEM
 Added auxiliary protocol circuit mimicking OEM
 Moved power supply caps closer to regulator
