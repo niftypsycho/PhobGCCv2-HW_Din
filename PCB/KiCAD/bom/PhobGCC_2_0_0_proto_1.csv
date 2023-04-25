@@ -1,0 +1,133 @@
+"null","Sourced","Placed","References","Value","Footprint","MPN","Manufacturer","Package"
+1,"","","C17","100n","C_0402_1005Metric","CL05B104KA5NNNC","Samsung Electro-Mechanics",402
+2,"","","C19","100n","C_0402_1005Metric","CL05B104KA5NNNC","Samsung Electro-Mechanics",402
+3,"","","C20","100n","C_0402_1005Metric","CL05B104KA5NNNC","Samsung Electro-Mechanics",402
+4,"","","C22","100n","C_0402_1005Metric","CL05B104KA5NNNC","Samsung Electro-Mechanics",402
+5,"","","C24","100n","C_0402_1005Metric","CL05B104KA5NNNC","Samsung Electro-Mechanics",402
+6,"","","C25","100n","C_0402_1005Metric","CL05B104KA5NNNC","Samsung Electro-Mechanics",402
+7,"","","C26","100n","C_0402_1005Metric","CL05B104KA5NNNC","Samsung Electro-Mechanics",402
+8,"","","C27","100n","C_0402_1005Metric","CL05B104KA5NNNC","Samsung Electro-Mechanics",402
+9,"","","C28","100n","C_0402_1005Metric","CL05B104KA5NNNC","Samsung Electro-Mechanics",402
+10,"","","C29","100n","C_0402_1005Metric","CL05B104KA5NNNC","Samsung Electro-Mechanics",402
+11,"","","C30","100n","C_0402_1005Metric","CL05B104KA5NNNC","Samsung Electro-Mechanics",402
+12,"","","C31","100n","C_0402_1005Metric","CL05B104KA5NNNC","Samsung Electro-Mechanics",402
+13,"","","C32","100n","C_0402_1005Metric","CL05B104KA5NNNC","Samsung Electro-Mechanics",402
+14,"","","C3","0.047u","C_0603_HandSoldering","CL10B473KB8NNNC","Samsung Electro-Mechanics",603
+15,"","","C4","0.047u","C_0603_HandSoldering","CL10B473KB8NNNC","Samsung Electro-Mechanics",603
+16,"","","C5","0.047u","C_0603_HandSoldering","CL10B473KB8NNNC","Samsung Electro-Mechanics",603
+17,"","","C6","0.047u","C_0603_HandSoldering","CL10B473KB8NNNC","Samsung Electro-Mechanics",603
+18,"","","C7","0.047u","C_0603_HandSoldering","CL10B473KB8NNNC","Samsung Electro-Mechanics",603
+19,"","","C8","0.047u","C_0603_HandSoldering","CL10B473KB8NNNC","Samsung Electro-Mechanics",603
+20,"","","C9","100n","C_0603_1608Metric","CL10B104KB8NNWC","Samsung Electro-Mechanics",603
+21,"","","C10","100n","C_0603_1608Metric","CL10B104KB8NNWC","Samsung Electro-Mechanics",603
+22,"","","C11","100n","C_0603_1608Metric","CL10B104KB8NNWC","Samsung Electro-Mechanics",603
+23,"","","C12","100n","C_0603_1608Metric","CL10B104KB8NNWC","Samsung Electro-Mechanics",603
+24,"","","C1","C_Polarized","CP_EIA-3528-12_Kemet-T_Pad1.50x2.35mm_HandSolder","GRM32ER71A476ME15L","Murata Electronics",1210
+25,"","","C13","C_Polarized","CP_EIA-3528-12_Kemet-T_Pad1.50x2.35mm_HandSolder","GRM32ER71A476ME15L","Murata Electronics",1210
+26,"","","C14","27p","C_0402_1005Metric","0402YA270JAT2A","KYOCERA AVX",402
+27,"","","C15","27p","C_0402_1005Metric","0402YA270JAT2A","KYOCERA AVX",402
+28,"","","C16","10u","C_0805_2012Metric","GRM21BR71A106KA73K","Murata Electronics",805
+29,"","","C18","10u","C_0805_2012Metric","GRM21BR71A106KA73K","Murata Electronics",805
+30,"","","C21","1u","C_0402_1005Metric","GRM155Z71A105KE01J","Murata Electronics",402
+31,"","","C23","1u","C_0402_1005Metric","GRM155Z71A105KE01J","Murata Electronics",402
+32,"","","C2","47p","C_0603_1608Metric","CL10C470JB81PNC","Samsung Electro-Mechanics",603
+33,"","","R1",180,"R_0402_1005Metric","RC0402FR-07180RL","YAGEO",402
+34,"","","R2",180,"R_0402_1005Metric","RC0402FR-07180RL","YAGEO",402
+35,"","","R7",180,"R_0402_1005Metric","RC0402FR-07180RL","YAGEO",402
+36,"","","R8",180,"R_0402_1005Metric","RC0402FR-07180RL","YAGEO",402
+37,"","","R9",180,"R_0402_1005Metric","RC0402FR-07180RL","YAGEO",402
+38,"","","R3","2k","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","RC0603FR-132KL","YAGEO",603
+39,"","","R4","2k","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","RC0603FR-132KL","YAGEO",603
+40,"","","R5","2k","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","RC0603FR-132KL","YAGEO",603
+41,"","","R6","2k","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","RC0603FR-132KL","YAGEO",603
+42,"","","R10",316,"R_0402_1005Metric","RC0402FR-07316RL","YAGEO",402
+43,"","","R19",316,"R_0402_1005Metric","RC0402FR-07316RL","YAGEO",402
+44,"","","R24",316,"R_0402_1005Metric","RC0402FR-07316RL","YAGEO",402
+45,"","","R25",316,"R_0402_1005Metric","RC0402FR-07316RL","YAGEO",402
+46,"","","R13","10k","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","RNCP0603FTD10K0","Stackpole Electronics Inc",603
+47,"","","R14","10k","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","RNCP0603FTD10K0","Stackpole Electronics Inc",603
+48,"","","R15","10k","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","RNCP0603FTD10K0","Stackpole Electronics Inc",603
+49,"","","R11","100R","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","RMCF0603FT100R","Stackpole Electronics Inc",603
+50,"","","R12","100R","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","RMCF0603FT100R","Stackpole Electronics Inc",603
+51,"","","R16","1k","C_0402_1005Metric","RMCF0402FT1K00","Stackpole Electronics Inc",402
+52,"","","R18","1k","C_0402_1005Metric","RMCF0402FT1K00","Stackpole Electronics Inc",402
+53,"","","R20",27,"C_0402_1005Metric","RC0402FR-0727RL","YAGEO",402
+54,"","","R21",27,"C_0402_1005Metric","RC0402FR-0727RL","YAGEO",402
+55,"","","R17","100k","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","RC0603FR-07100KL","YAGEO",603
+56,"","","R22","750R","R_0603_1608Metric","RC0603JR-07750RL","YAGEO",603
+57,"","","R23","1k","R_0603_1608Metric","RNCP0603FTD1K00","Stackpole Electronics Inc",603
+58,"","","R26","220R","R_0603_1608Metric","RMCF0603JT220R","Stackpole Electronics Inc",603
+59,"","","D1","CUS10S30,H3F","D_SOD-323","CUS10S30,H3F","Toshiba Semiconductor and Storage","SOD-323"
+60,"","","D2","M7C","D_SOD-123","B5819W","Yangzhou Yangjie Electronic Technology Co.,Ltd","SOD-123"
+61,"","","U4","DRV5055A2xDBZxQ1","SOT-23","DRV5055A3QDBZR","Texas Instruments","SOT-23"
+62,"","","U9","DRV5055A2xDBZxQ1","SOT-23","DRV5055A3QDBZR","Texas Instruments","SOT-23"
+63,"","","U10","DRV5055A2xDBZxQ1","SOT-23","DRV5055A3QDBZR","Texas Instruments","SOT-23"
+64,"","","U11","DRV5055A2xDBZxQ1","SOT-23","DRV5055A3QDBZR","Texas Instruments","SOT-23"
+65,"","","U1","MCP3002","SOIC-8_3.9x4.9mm_P1.27mm","MCP3202-CI/SN","Microchip Technology","8-SOIC"
+66,"","","U3","MCP3002","SOIC-8_3.9x4.9mm_P1.27mm","MCP3202-CI/SN","Microchip Technology","8-SOIC"
+67,"","","U2","Stickbox_Assembly_Main","GCC_Stickbox_Hall_Only","T3+Magnet_Assy","Internal","Through-hole"
+68,"","","U5","Stickbox_Assembly_CStick","GCC_Stickbox_Hall_Only","T3+Magnet_Assy","Internal","Through-hole"
+69,"","","U6","AMS1117-3.3","SOT-223-3_TabPin2","AMS1117-3.3","UMW","SOT-223-3"
+70,"","","U7","W25Q128JVS","SOIC-8_5.23x5.23mm_P1.27mm","W25Q128JVSIQ TR","Winbond Electronics","8-SOIC"
+71,"","","U8","RP2040","RP2040-QFN-56","SC0914(13)","Raspberry Pi","56-QFN"
+72,"","","U12","USBLC6-2P6","SOT-666","USBLC6-2P6","STMicroelectronics","SOT-666"
+73,"","","Y1","Crystal_GND24","Crystal_SMD_3225-4Pin_3.2x2.5mm","RH100-12.000-18-2020-EXT-TR","Raltron Electronics","SMD-3225"
+74,"","","F1","Fuse","Fuse_1206_3216Metric","PTS120624V020","Eaton - Electronics Division",1206
+75,"","","SW1","A","ABXY_Contact_Omron_Switch_Circley","DNP","DNP","Virtual"
+76,"","","SW2","B","ABXY_Contact_Omron_Switch_Circley","DNP","DNP","Virtual"
+77,"","","SW3","X","ABXY_Contact_Omron_Switch_Circley","DNP","DNP","Virtual"
+78,"","","SW4","Y","ABXY_Contact_Omron_Switch_Circley","DNP","DNP","Virtual"
+79,"","","SW5","Start","Start_Contact","DNP","DNP","Virtual"
+80,"","","SW8","Z","Z_Switch_Edge_Omron","1825027-5","TE Connectivity ALCOSWITCH Switches","Through-hole"
+81,"","","SW9","Dleft","Dpad_Contact_TL3315NF_2_ZigZag","DNP","DNP","Virtual"
+82,"","","SW10","Dup","Dpad_Contact_TL3315NF_2_ZigZag","DNP","DNP","Virtual"
+83,"","","SW11","Dright","Dpad_Contact_TL3315NF_2_ZigZag","DNP","DNP","Virtual"
+84,"","","SW12","Ddown","Dpad_Contact_TL3315NF_2_ZigZag","DNP","DNP","Virtual"
+85,"","","SW13","L","Trigger_Contact_Big","DNP","DNP","Virtual"
+86,"","","SW14","R","Trigger_Contact_Big","DNP","DNP","Virtual"
+87,"","","FB1","FerriteBead_Small","R_0805_2012Metric","2508056017Y2","Fair-Rite Products Corp.",805
+88,"","","FB2","FerriteBead_Small","R_0805_2012Metric","2508056017Y2","Fair-Rite Products Corp.",805
+89,"","","FB3","FerriteBead_Small","R_0805_2012Metric","2508056017Y2","Fair-Rite Products Corp.",805
+90,"","","FB5","FerriteBead_Small","R_0805_2012Metric","2508056017Y2","Fair-Rite Products Corp.",805
+91,"","","LOGO","","DinSprite_6x4.8mm","","",""
+92,"","","LOGO","","DinSprite_6x4.8mm","","",""
+93,"","","LOGO","","DinSprite_6x4.8mm","","",""
+94,"","","Q1","Q_NMOS_GSD","SOT-23","AO3400A","Alpha & Omega Semiconductor Inc.","SOT-23"
+95,"","","Q3","Q_NMOS_GSD","SOT-23","AO3400A","Alpha & Omega Semiconductor Inc.","SOT-23"
+96,"","","Q4","Q_NMOS_GSD","SOT-23","T2N7002AK,LM","Toshiba Semiconductor and Storage","SOT-23"
+97,"","","H3","2mm","MountingHole_2.0mm","DNP","DNP","Mechanical"
+98,"","","H4","2mm","MountingHole_2.0mm","DNP","DNP","Mechanical"
+99,"","","H5","1.8mm","MountingHole_1.8mm","DNP","DNP","Mechanical"
+100,"","","H6","1.8mm","MountingHole_1.8mm","DNP","DNP","Mechanical"
+101,"","","H8","2.2mm","MountingHole_2.2mm","DNP","DNP","Mechanical"
+102,"","","H9","2.2mm","MountingHole_2.2mm","DNP","DNP","Mechanical"
+103,"","","H12","MountingHole","MountingHole_2.0mm","DNP","DNP","Mechanical"
+104,"","","H13","MountingHole","MountingHole_2.0mm","DNP","DNP","Mechanical"
+105,"","","RV1","R_POT_MountingPin","GCC_Slider","Trigger-Slider","Various","Through-hole"
+106,"","","RV2","R_POT_MountingPin","GCC_Slider","Trigger-Slider","Various","Through-hole"
+107,"","","FB4","FerriteBead_Small","R_0603_1608Metric","MMZ1608B601CTAH0","TDK Corporation",603
+108,"","","H1","5.2mm","MountingHole_5.2mm","DNP","DNP","Mechanical"
+109,"","","H2","Slot","Slot","DNP","DNP","Mechanical"
+110,"","","H7","2.4mm","MountingHole_2.4mm","DNP","DNP","Mechanical"
+111,"","","H10","MountingHole","MountingHole_1.8mm","DNP","DNP","Mechanical"
+112,"","","H11","MountingHole","MountingHole_5.2mm","DNP","DNP","Mechanical"
+113,"","","H14","MouseBite","breakaway-mousebites-double-v2-small","DNP","DNP","Mechanical"
+114,"","","H15","MouseBite","breakaway-mousebites-double-v2-large","DNP","DNP","Mechanical"
+115,"","","H16","MouseBiteLA","breakaway-mousebites-double","DNP","DNP","Mechanical"
+116,"","","H17","MouseBiteRA","breakaway-mousebites-double","DNP","DNP","Mechanical"
+117,"","","LOGO","","Din_Talking_Spring","","",""
+118,"","","Q2","Q_PMOS_GDS","SOT-23","AO3401A","Alpha & Omega Semiconductor Inc.","SOT-23"
+119,"","","S1","BOOTSEL","SW_TS-1187A-B-A-B","PTS526 SK15 SMTR2 LFS","C&K","SMD"
+120,"","","J6","Conn_01x06","PinSocket_1x06_P2.00mm_Vertical","DNP","DNP","Through-Hole"
+121,"","","J14","Conn_01x06","PinSocket_1x06_P2.00mm_Vertical","DNP","DNP","Virtual"
+122,"","","J15","Conn_01x06","PinSocket_1x06_P2.00mm_Vertical","DNP","DNP","Virtual"
+123,"","","J7","L","Pin_Header_Straight_1x02_Pitch2.54mm","DNP","DNP","Virtual"
+124,"","","SW6","L","Pin_Header_Straight_1x02_Pitch2.54mm","DNP","DNP","Virtual"
+125,"","","J9","R","Pin_Header_Straight_1x02_Pitch2.54mm","DNP","DNP","Virtual"
+126,"","","SW7","R","Pin_Header_Straight_1x02_Pitch2.54mm","DNP","DNP","Virtual"
+127,"","","J1","Conn_01x06_Female","GCC_Header_Straight_1x06_Pitch2.00mm","DNP","DNP","Virtual"
+128,"","","J2","Conn_01x02","PinHeader_1x02_P2.00mm_Vertical","DNP","DNP","Virtual"
+129,"","","J3","Conn_01x02","PinHeader_1x02_P2.00mm_Horizontal","DNP","DNP","Virtual"
+130,"","","J4","Conn_01x01","PinHeader_1x01_P2.54mm_Vertical","DNP","DNP","Virtual"
+131,"","","J5","Rumble","rumble_pins","DNP","DNP","Mechanical"
+132,"","","J8","USB_B_Micro","USB_Micro-B_Amphenol_10118194_Horizontal","10118194-0001LF","Amphenol ICC (FCI)","Hybrid"
